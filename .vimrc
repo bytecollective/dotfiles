@@ -39,6 +39,7 @@ map <leader>w :w<cr>
 map <leader>q :q<cr>
 map <leader>h :sp<cr>
 map <leader>v :vs<cr>
+map <leader>l :b#<cr>
 nnoremap <esc> :noh<return><esc>
 
 " remap C-W C-<key> to C-<key> for
